@@ -1,6 +1,9 @@
 DOCUMENTAÇÃO DO PROJETO DE ANÁLISE DE ÓBITOS E INDICADORES SOCIOECONÔMICOS
+
 INTRODUÇÃO
+
 Este projeto tem como objetivo analisar a relação entre condições socioeconômicas e óbitos, considerando indicadores como o Índice de Vulnerabilidade Social (IVS) e o Índice de Equidade e Dimensionamento (IED).
+
 ESTRUTURA DO PROJETO
 Semana 1: Planejamento e Estruturação do Projeto
 Definição dos objetivos do projeto e fontes de dados.
